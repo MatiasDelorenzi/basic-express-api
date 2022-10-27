@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Titanic",
+        "year": "2002",
+        "description": "Dicaprio dies because of ice",
+        "rating": 9
+    }, 
+    {
+        "id": "2",
+        "name": "Bajo la misma estrella",
+        "year": "2017",
+        "description": "People under a star",
+        "rating": 6
+    },
+    {
+        "id": "3",
+        "name": "101 dalmatas",
+        "year": "1845",
+        "description": "Dog",
+        "rating": 10
+    }
+]
